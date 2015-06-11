@@ -1,2 +1,2 @@
 # hn-data
-Data I gathered from Hacker News
+Data gathered from Hacker News
